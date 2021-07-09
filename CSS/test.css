@@ -1,0 +1,18 @@
+@import url("//cdn.web-fonts.ge/fonts/bpg-boxo-boxo/css/bpg-boxo-boxo.min.css");
+
+body {
+  font-family: "BPG Boxo-Boxo", sans-serif;
+  background-image: url(https://source.unsplash.com/random);
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+}
+
+#rame {
+  width: 20%;
+  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);
+}
